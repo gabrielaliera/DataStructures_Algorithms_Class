@@ -7,7 +7,7 @@ import java.util.Scanner;
     Description: –Use a menu to perform various operations and you can submit
 this final version in lieu of exercise 3.
 
-  Modify from book: Position, PsotionalList, LinkedPositional Link 
+  Modify from book: Position, PostionalList, LinkedPositional Link 
   I certify that the code below is my own work.
   Exception(s): IllegalStateException, NoSuchElementException from LinkedPositionalList
 */
