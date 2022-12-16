@@ -3,8 +3,8 @@ Labs from CSCI 250 - Fall 2022
 <ul>
  <li>PA 1- Review/Classes</li>
  <li>PA 2- Recursion</li>
- <li>PA 3</li>
- <li>PA 4</li>
+ <li>PA 3- Stack and Queues</li>
+ <li>PA 4 - Linked Lists</li>
  <li>PA 5- Trees</li>
  <li>PA 6- Priority Lists & Heaps</li>
  <li>PA 7- Hashtables</li>
