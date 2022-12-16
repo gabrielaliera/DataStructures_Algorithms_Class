@@ -71,7 +71,7 @@ class Main {
           System.out.println("\nLength: "+ notepad.size());
           break;
         case 8: //Exit
-          System.out.println("Thank for using my ediotr program.");
+          System.out.println("Thank for using my program.");
           break;
       }
     }
